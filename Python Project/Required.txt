@@ -1,0 +1,15 @@
+Loafer Light, GoldStar, 250, 1000.0, domestic
+Inigo 732, Caliber, 200, 2800.0, domestic
+Lite Racer, Adidas, 200, 7000.0, international
+Urban Trek, Puma, 200, 5500.0, international
+Classic Step, Bata, 260, 1200.0, domestic
+Sprint Pro, Nike, 200, 8000.0, international
+Comfort Walk, Liberty, 200, 900.0, domestic
+Aero Glide, Reebok, 120, 6200.0, international
+City Stroll, Sparx, 200, 1500.0, domestic
+Trailblazer, New Balance, 100, 7500.0, international
+Easy Pace, Campus, 350, 800.0, domestic
+Velocity Rush, Asics, 150, 6800.0, international
+Metro Vibe, RedTape, 200, 2000.0, domestic
+Dynamic Fit, Under Armour, 200, 7200.0, international
+Casual Stride, Action, 200, 1100.0, domestic
